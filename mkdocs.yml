@@ -1,0 +1,20 @@
+## Préambule
+site_name: My web site
+site_description: a site about stg.
+site_author: Raj
+repo_name: site_mkdocs_2
+repo_url: https://github.com/username/site_mkdocs_2.git
+site_url: http(s)://username.github.io/site_mkdocs_2
+site_favicon: favicon.ico
+
+theme:
+  name: readthedocs # mkdocs
+
+
+## Architecture
+nav:
+  - Home: index.md
+  - Cheat-SheetA: cheat_sheet.md
+
+
+## Extensions
